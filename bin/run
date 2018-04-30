@@ -1,5 +1,5 @@
-#!/usr/bin/env ruby 
-require '../bin/sqlite3'
+#!/usr/bin/env ruby
+require_relative '../bin/sqlite3'
 require '../active_support/inflector'
 
 
